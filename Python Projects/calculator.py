@@ -12,7 +12,7 @@ right_symbols = ["/", "*", "-", "+", "="]
 top_symbols = ["AC", "+/-", "%"]
 
 row_count = len(button_values)  # 5
-column_count = len(button_values[0])  # 4
+column_count = len(button_values[0])
 
 color_light_gray = "#D4D4D2"
 color_dark_gray = "#505050"
